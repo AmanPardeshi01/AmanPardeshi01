@@ -1,26 +1,26 @@
-# Hi there, I'm John Doe 👋
+# Hi there, I'm **Aman Chandrabhan Pardeshi** 👋💻
 
-I'm a software developer specializing in web development and AI. I enjoy building applications that solve real-world problems and contribute to open-source projects.
+I'm a passionate **Software Developer** focused on **Web Development** and **AI** 🤖. I enjoy creating innovative applications to solve real-world problems 🌍 and continuously enhancing my skill set 🎯.
 
-## Skills & Technologies
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** React, Django, Flask
-- **Tools:** Git, Docker, AWS
+## 🚀 Skills & Technologies
+- **Languages:** Python 🐍, JavaScript ⚡, C, C++, Core Java ☕, HTML, CSS 🎨
+- **Frameworks & Libraries:** React ⚛️, Vue.js 🔥, Bootstrap
+- **Tools:** Git, GitHub 🛠️, VS Code, SDLC, Workday
 
-## Projects
-- [Project One](https://github.com/username/project-one): A brief description of what the project does and why it's cool.
-- [Project Two](https://github.com/username/project-two): Another description, highlighting your role and any technologies used.
+## 🌟 Projects
+- [✨ Gemini Clone](https://github.com/AmanPardeshi01/gemini-clone): A React-based web app simulating a conversational interface powered by **Google Generative AI** 🤖.
+- [📸 Social Platform (Instagram Clone)](https://github.com/AmanPardeshi01/social-platform): A Full Stack application resembling Instagram built using **React**, **Redux**, **Spring Boot**, and **MySQL**.
 
-## Achievements
-- Contributor to [Awesome Project](https://github.com/awesome-project) with [notable feature](https://github.com/awesome-project/pull/123)
-- Certified in [Advanced Data Science](https://example.com/certification)
+## 🏆 Achievements
+- 🎓 Bachelor's Degree in **Computer Engineering**
+- 🔧 Built and tested Full Stack applications using **Postman** for API integration
+- 📈 Continuously learning and contributing to **open-source projects** 🌱
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/johndoe/)
-- [Twitter](https://twitter.com/johndoe)
-- [Personal Website](https://johndoe.dev)
+## 💼 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/amanchandrabhanpardeshi/) 🔗
+- [GitHub](https://github.com/AmanPardeshi01) 🔗
 
-## Fun Fact
-I love hiking and have explored over 50 national parks!
+## 🎉 Fun Fact
+I love exploring the latest **tech trends** and I’m always up for a coding challenge! When I'm not coding, you’ll find me exploring the outdoors 🏞️.
 
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&hide_title=true)
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanPardeshi01&show_icons=true&hide_title=true&theme=radical)
