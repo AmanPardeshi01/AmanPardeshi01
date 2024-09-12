@@ -17,7 +17,7 @@ I'm a passionate **Software Developer** focused on **Web Development** and **AI*
 - 📈 Continuously learning and contributing to **open-source projects** 🌱
 
 ## 💼 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/amanchandrabhanpardeshi/) 🔗
+- [LinkedIn](https://www.linkedin.com/in/amanpardeshi/) 🔗
 - [GitHub](https://github.com/AmanPardeshi01) 🔗
 
 ## 🎉 Fun Fact
